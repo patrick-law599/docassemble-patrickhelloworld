@@ -1,0 +1,12 @@
+---
+question: Hello, ${ first } ${ last }!
+buttons:
+  - Exit: exit
+mandatory: True
+---
+question: |
+  What is your name?
+fields:
+  - First Name: first
+  - Last name: last
+---
