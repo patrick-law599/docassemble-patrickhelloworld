@@ -7,6 +7,6 @@ mandatory: True
 question: |
   What is your name?
 fields:
-  - First Name: first
+  - First name: first
   - Last name: last
 ---
